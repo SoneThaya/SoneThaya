@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+#### Hi, I'm Sone. I am a software engineer who is passionate about coding.
 
 - 🔭 I’m currently working on ... Story Squad 
 - 🌱 I’m currently learning ... React
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
