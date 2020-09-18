@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Sone. I am a full stack web developer who is passionate about coding.
 
-
-#### Hi, I'm Sone. I am a software engineer who is passionate about coding.
 
 - 🔭 I’m currently working on ... Story Squad 
-- 🌱 I’m currently learning ... Ant Design, Stripe
-- 👯 My skills include ... React, JS, CSS, Node JS
-- 🤔 I’m looking for help with ... AWS
+- 🌱 I’m currently learning ... Ant Design, Stripe, Okta Authentication
+- 👯 My skills include ... React, JS, CSS, Node JS, Python, Redux
+- 🤔 I’m looking forward to learning more about ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/sone-thaya/
 
