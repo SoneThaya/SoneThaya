@@ -10,6 +10,4 @@
 
 ![Alt Text](https://64.media.tumblr.com/a204f7fd4b1aec9c6ee2aa44e693d376/tumblr_n2qagw1yDD1s32c21o1_500.gifv)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sonethaya&repo=github-readme-stats)](https://github.com/sonethaya/github-readme-stats)
-
 ![Sone's github stats](https://github-readme-stats.vercel.app/api?username=sonethaya&show_icons=true&theme=radical)
