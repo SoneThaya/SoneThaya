@@ -13,3 +13,5 @@
 ![Sone's github stats](https://github-readme-stats.vercel.app/api?username=sonethaya&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonethaya)](https://github.com/sonethaya/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonethaya&layout=compact)](https://github.com/sonethaya/github-readme-stats)
