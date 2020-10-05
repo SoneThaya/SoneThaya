@@ -11,3 +11,5 @@
 ![Alt Text](https://64.media.tumblr.com/a204f7fd4b1aec9c6ee2aa44e693d376/tumblr_n2qagw1yDD1s32c21o1_500.gifv)
 
 ![Sone's github stats](https://github-readme-stats.vercel.app/api?username=sonethaya&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonethaya)](https://github.com/anuraghazra/github-readme-stats)
