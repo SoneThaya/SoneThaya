@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sone. I am a full stack web developer who is passionate about coding.
 
 
-- 🔭 I’m currently working on ... shopify challenge
+- 🔭 I’m currently working on ... Netflix clone with stripe
 - 🌱 I’m currently learning ... more about state management
 - 👯 My skills include ... React, JS, CSS, Node JS, Python, Redux
 - 🤔 I’m looking forward to learning more about ... AWS
