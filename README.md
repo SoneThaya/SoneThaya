@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Netflix clone with stripe
-- 🌱 I’m currently learning ... more about state management
+- 🌱 I’m currently learning ... Angular
 - 👯 My skills include ... React, JS, CSS, Node JS, Python, Redux
 - 🤔 I’m looking forward to learning more about ... AWS
 - 💬 Ask me about ... Anything
