@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Sone. I am a full stack web developer who is passionate about coding.
 
 
-- 🔭 I’m currently working on ... Netflix clone with stripe
-- 🌱 I’m currently learning ... Angular
+- 🔭 I’m currently working on ... Movie Rater
+- 🌱 I’m currently learning ... Django
 - 👯 My skills include ... React, JS, CSS, Node JS, Python, Redux
 - 🤔 I’m looking forward to learning more about ... AWS
 - 💬 Ask me about ... Anything
