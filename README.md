@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Sone. I am a full stack web developer who is passionate about coding.
 
 
-- 🔭 I’m currently working on ... Udemy course
-- 🌱 I’m currently learning ... Django
+- 🔭 I’m currently working on ... a React Native project
+- 🌱 I’m currently learning ... React Native
 - 👯 My skills include ... React, JS, CSS, Node JS, Python, Redux
 - 🤔 I’m looking forward to learning more about ... AWS
 - 💬 Ask me about ... Anything
