@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Sone. I am a full stack web developer who is passionate about coding.
 
 
-- 🔭 I’m currently working on ... a React Native project
-- 🌱 I’m currently learning ... React Native
-- 👯 My skills include ... React, JS, CSS, Node JS, Python, Redux
+- 🔭 I’m currently working on ... a Top Secret Project.
+- 🌱 I’m currently learning ... C#.
+- 👯 My skills include ... React, Angular, HTML, JS, CSS, Node JS, Python, Redux
 - 🤔 I’m looking forward to learning more about ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://www.linkedin.com/in/sone-thaya/
